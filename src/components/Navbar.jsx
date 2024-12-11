@@ -43,7 +43,7 @@ const Navbar = () => {
         >
           <img src={logo_1} alt='logo' className='w-12 h-12 object-coover rounded-full' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Adnan &nbsp;
+            Rizwan &nbsp;
             <span className='sm:block hidden'> | AY</span>
           </p>
         </Link>
